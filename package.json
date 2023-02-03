@@ -1,0 +1,23 @@
+{
+  "name": "web322-a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiddhiPatel25/web322-a1.git"
+  },
+  "author": "Riddhi Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiddhiPatel25/web322-a1/issues"
+  },
+  "homepage": "https://github.com/RiddhiPatel25/web322-a1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
